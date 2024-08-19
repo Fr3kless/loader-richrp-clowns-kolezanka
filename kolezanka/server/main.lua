@@ -1,7 +1,7 @@
 loader = {}
 loader.codeSent = {}
 loader.codeStore = {}
-loader.cipherKey = "MTUvMb7h68MSYak6n85vsV2wXDknrj3t"
+loader.cipherKey = "MENZL2VN9VYMWGDXFHSTD4GXS7MP4W8W724MD28C"
 
 exports('Init', function()
     local resourceName = GetInvokingResource()
